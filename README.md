@@ -122,7 +122,6 @@ This repository includes:
 - Technical Seminar Report
 - Presentation Slides
 - Engine Working Diagrams
-- Comparative Analysis
 - Reference Materials
 
 ---
